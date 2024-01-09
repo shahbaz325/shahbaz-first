@@ -1,0 +1,511 @@
+@media only screen and (max-width: 767px){
+    .box1{
+      width: 100%;
+    height: 31px;
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+    }
+    .main{
+      display: none;
+    }
+    
+  }
+  @media only screen and (min-width: 279px) and (max-width: 767px){
+    .main{
+      display: none;
+    }
+   }
+   @media only screen and (min-width: 279px) and (max-width: 767px){
+    header .img1{
+      width: 100%;
+  display: flex;
+  justify-content: center;
+    }
+   }
+   
+   @media screen and (max-width:6000px){
+    header .mobile{
+      display: none;
+    }
+    .babar > img:nth-child(3){
+      display: none;
+    }
+    .babar > img:nth-child(5){
+      display: none;
+    }
+    .nth6 > img:nth-child(1){
+      display: none;
+    }
+    .box9{
+        display: none;
+    }
+    body > main > div.box2 > div.shop3 > div.babar > img:nth-child(2){
+      display: none;
+    }
+ 
+    body > main > div.box3 > div.box4 > div.fox1 > img{
+      display: none;
+    }
+    .box2 .shop3 .iframe1{
+      display: none;
+     }
+     .box2 .shop3 .iframe2{
+      display: none;
+     }
+     body > main > div.box2 > div.shop4 > figure > img:nth-child(2){
+      display: none;
+    }
+    body > main > div.box2 > div.shop5 > figure > img:nth-child(2){
+      display: none;
+    }
+   }
+   @media only screen and (min-width: 350px) and (max-width: 600px){
+    .img > figure:nth-child(1) > img:nth-child(1){
+      width: 135%;
+    }
+   }
+   @media only screen and (min-width: 601px) and (max-width: 1025px){
+    body{
+      overflow-x: hidden;
+    }
+    .img > figure:nth-child(1) > img:nth-child(1){
+      width: 230%;
+    }
+    .box1{
+      width: 100%;
+    }
+    .main{
+      display: none;
+    }
+    header .mobile{
+      display: block;
+      width: 100%;
+    }
+    .box2{
+      width: 80%;
+      display: flex;
+      flex-direction: column;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .box3{
+      width: 80%;
+      display: flex;
+      flex-direction: column;
+    }
+    .box2 .shop1 {
+      width: 100%;
+     
+    }
+    .box2 .shop2 {
+      width: 100%;
+    }
+    .box2 .shop2 .reports{
+      width: 100%;
+      
+    }
+    .box2 .shop1 .lat{
+      width: 100%;
+    }
+    .box2 .shop3{
+      width: 100%;
+    }
+    
+    .babar > img:nth-child(1){
+      display: none;
+    }
+    .babar > img:nth-child(3){
+      display: block;
+    }
+    
+    
+    .nth4 > img:nth-child(1){
+  display: none;
+    }
+    .nth6 > img:nth-child(1){
+      display: block;
+    }
+    .box2 .shop3 .rk1{
+      width: 100%;
+    }
+    
+     .box2 .shop3 .iframe2{
+      display: block;
+     }
+     .box2 .shop4 .Features{
+      width: 100%;
+      
+     }
+     .shop4 > figure:nth-child(2) > img:nth-child(1){
+      width: 100%;
+    
+     }
+     .shop4 > figure:nth-child(2) > figcaption:nth-child(3){
+      width: 99.5%;
+     }
+     .shop4 ul{
+      width: 96%;
+     }
+     .box2 .shop5 .Podcast{
+      width: 100%;
+     }
+     .shop5 > figure:nth-child(2) > img:nth-child(1){
+      width: 100%;
+     }
+     .shop5 > figure:nth-child(2) > figcaption:nth-child(3){
+      width: 99.5%;
+      
+     }
+     .shop5 ul{
+      width: 96%;
+     }
+     .box3 .shop6{
+      width: 100%;
+     }
+     .box3 .shop6 .player{
+      width: 100%;
+      
+     }
+     div.riz:nth-child(3) > figure:nth-child(1) > img:nth-child(1){
+      width: 100%;
+      margin-left: -10px;
+     }
+     .box2 .shop3 .iframe{
+      display: none;
+     }
+     .box3 .shop6 .riz{
+      width: 100%;
+     }
+     i.fa-solid:nth-child(2){
+      margin-left: 60px;
+     }
+     i.fa-solid:nth-child(5){
+      margin-right: 110px;
+     }
+    
+     div.riz:nth-child(3) > figure:nth-child(1) > figcaption:nth-child(2) > a:nth-child(1){
+      margin-left: 20px;
+      font-size: 20px;
+     }
+     .shop6 > span:nth-child(4){
+      margin-left: 30px;
+      font-size: 20px;
+
+     }
+     .box3 .shop7{
+      width: 100%;
+     }
+     .box3 .shop7 .player{
+      width: 100%;
+     }
+     .shop7 > div:nth-child(2) > figure:nth-child(1) > img:nth-child(1){
+      width: 100%;
+     }
+     .box3 .shop8{
+      width: 100%;
+     }
+     .shop7 > div:nth-child(2) > figure:nth-child(1) > figcaption:nth-child(2) > a:nth-child(1){
+      margin-left: 20px;
+      font-size: 20px;
+     }
+     .box3 .shop8{
+      width: 100%;
+     }
+     .box3 .shop8 .player{
+      width: 97%;
+     }
+     .shop8 > div:nth-child(2) > figure:nth-child(1) > img:nth-child(1){
+      width: 100%;
+     }
+     .box3 .shop9 {
+     width: 100%;
+     }
+     .box3 .shop9 .matches{
+      width: 98.5%;
+     }
+     .shop8 > div:nth-child(2) > figure:nth-child(1) > figcaption:nth-child(2) > a:nth-child(1){
+      margin-left: 20px;
+      font-size: 20px;
+     }
+     .box3 .shop9 .reports1 .reports{
+      width: 100%;
+      margin-left:-8px;
+     }
+     .box4{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+     }
+     .box4 .fox1 {
+      width: 100%;
+     }
+     .box4 .fox1 .partners{
+      width: 100%;
+     }
+     .box4 .fox2{
+      width: 100%;
+     }
+     .baz > img:nth-child(1){
+      margin-left: 15px;
+     }
+     
+     
+    
+  }
+   @media only screen and (min-width: 279px) and (max-width: 767px){
+    header .mobile{
+      display: block;
+      width: 100%;
+    }
+   }
+   @media only screen and (min-width: 279px) and (max-width: 767px){
+    .box2 {
+     display: flex;
+     flex-direction: column;
+     width: 80%;
+     grid-gap: 0;
+     
+    }
+    .box2 .shop1 .wrapper .carousel .card .img figure figcaption a{
+      font-size: 20px;
+    }
+    .box2 .shop1 .wrapper .carousel .card .img p{
+     width: 80%;
+    }
+    .box2 .shop1 .lat{
+      width: 100%;
+    }
+    .box2 .shop2{
+      width: 90%;
+    }
+    .box2 .shop2 .reports{
+      width: 95%;
+    }
+    .box2 .shop2 .reports ul li{
+      padding: 0px;
+      display: flex;
+      align-items: center;
+    }
+    .box2 .shop2 .reports ul li{
+      font-size: 10px;
+    }
+    .box2 .shop2 .reports ul .li1 {
+        padding: 8px;
+        border: none;
+    }
+    .box2 .shop2 .reports .li2{
+        padding-right: 5px;padding-left: 5px;
+    }
+    .box2 .shop2 .reports .li3{
+      padding-left: 10px;
+    }
+    .box2 .shop2 .pk1{
+      width: 95%;
+      
+    }
+    .babar .nth4{
+      display: none;
+    }
+    .box2 .shop3{
+      width: 100%;
+    }
+    
+    .box2 .shop3 .rk1{
+      width: 100%;
+    }
+    .box2 .shop4 .Features{
+    width: 100%;
+    margin-left: -5px;
+    }
+    .box2 .shop4{
+      width: 100%;
+      margin-left: -5px;
+    }
+    .shop4 > figure:nth-child(2) > img:nth-child(2){
+      width: 100%;
+    }
+    
+    .box3{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+       }
+       .box3 .shop6{
+        width: 100%;
+       }
+       .box2 .shop5 .Podcast{
+        width: 100%;
+       }
+       .shop5 > figure:nth-child(2) > img:nth-child(2){
+        width: 100%;
+        margin: 0;
+       }
+       .box3 .shop6 .player{
+        width: 100%;
+       }
+       .box3 .shop6 .riz img{
+        width: 100%;
+       }
+       .shop6 > span:nth-child(4){
+        margin-left: 10px;
+       }
+       .box3 .shop7 .player{
+        width: 100%;
+       }
+       .box3 .shop7 .riz img{
+        width: 100%;
+       }
+       .box3 .shop8 .player{
+        width: 100%;
+       }
+       .box3 .shop8 .riz img{
+        width: 100%;
+       }
+       .box3 .shop9{
+        width: 100%;
+       } 
+       .box3 .shop9 .matches{
+        width:100%;
+       }
+       .shop9 .matches ul li{
+        padding: 5px;
+       }
+       .shop9 .matches ul li:nth-child(3){
+        width: 67px;
+        height: 25px;
+       }
+       .shop9 .reports p{
+        width: 68%;
+       }
+       .box3 .shop9 .reports{
+        width: 340px;
+       }
+       .box4{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+       }
+       .box4 .fox1 .partners img{
+        width: 100%;
+       }
+       .box4 .fox1 .partners{
+        width: 100%;
+       }
+       footer .box6 {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+       }
+       .box7{
+        display: none;
+       }
+       .box9{
+        width: 100%;
+        background-color: rgb(14, 68, 14);
+        display: block;
+       }
+       .babar > img:nth-child(5){
+        display: block;
+      }
+       .box9 span{
+        color: white;
+        font-size: 12px;
+        margin-left: 45px;
+       }
+       .box9 ul{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       list-style-type: none;
+       }
+       .box9 ul li{
+       text-align: center;
+       padding-left: 10px;
+       padding-right: 10px;
+       }
+       .box9 ul li a{
+        color: white;
+        text-decoration: none;
+        font-size: 12px;
+       }
+      
+       
+       body > main > div.box2 > div.shop3 > div.babar > img:nth-child(1){
+        display: none;
+       }
+       body > main > div.box2 > div.shop3 > div.babar > img:nth-child(3){
+        display: none;
+       }
+       body > main > div.box2 > div.shop3 > div.babar > img:nth-child(2){
+        display: block;
+      }
+      body > main > div.box2 > div.shop3 > div.babar > img:nth-child(4){
+        display: block;
+      }
+      body > main > div.box3 > div.box4 > div.fox1 > div.baz > img{
+        display: none;
+      }
+      body > main > div.box3 > div.box4 > div.fox1 > img{
+        display: block;
+      }
+      .nth6 > img:nth-child(1){
+        display: none;
+      }
+      .box2 .shop3 .iframe{
+        display: none;
+      }
+      .box2 .shop3 .iframe1{
+       display: block;
+      }
+      
+      body > main > div.box2 > div.shop4 > figure > img:nth-child(1){
+        display: none;
+      }
+      body > main > div.box2 > div.shop5 > figure > img:nth-child(1){
+        display: none;
+      }
+      body > main > div.box2 > div.shop4 > figure > img:nth-child(2){
+        display: block;
+      }
+      body > main > div.box2 > div.shop5 > figure > img:nth-child(2){
+        display: block;
+      }
+      body{
+        overflow-x: hidden;
+      }
+      i.fa-solid:nth-child(3){
+        margin-right: 5px;
+      }
+}
+@media only screen and (max-width: 282px){
+.box2{
+  width: 90%;
+}
+.box2 .shop1 .lat{
+  width: 100%;
+}
+.box2 .shop2 .reports{
+  width: 90%;
+}
+.box2 .shop2 .reports ul{
+  margin-left: 15px;
+}
+.box2 .shop2 .reports ul li{
+  padding: 0;
+}
+.box2 .shop2 .reports ul li a{
+  font-size: 11px;
+}
+.babar > img:nth-child(2){
+  width: 100%;
+}
+}
+
+
+
+
+
+
+
+   
